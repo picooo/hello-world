@@ -1,2 +1,2 @@
 # hello-world
-just start in github
+I want to do something in github
